@@ -1,7 +1,5 @@
 
-<p align="center">
-  <img src="./svg/1.png" width="100%" alt="Nusrat Jahan Banner">
-</p>
+![Banner](1.png)
 
 
 

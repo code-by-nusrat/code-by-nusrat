@@ -20,16 +20,20 @@ jobs:
           outputs: |
             dist/snake.svg
 
-      - name: Push snake to snake-output branch
+      - name: Publish snake
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git clone --branch snake-output https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/code-by-nusrat/code-by-nusrat.git output
+          git clone https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/code-by-nusrat/code-by-nusrat.git repo
 
-          cp dist/snake.svg output/snake.svg
+          cd repo
 
-          cd output
+          git checkout --orphan snake-output
+          git rm -rf . || true
+
+          cp ../dist/snake.svg .
+
           git add snake.svg
-          git commit -m "Update snake animation" || echo "No changes to commit"
-          git push origin snake-output
+          git commit -m "Update snake animation"
+          git push origin snake-output --force

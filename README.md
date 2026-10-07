@@ -18,6 +18,7 @@
 <p data-importer="text" align="left">* 🌱 Currently learning and building projects with React, JavaScript, TypeScript, and Next.js<br>* 💻 Interested in Frontend & Full-Stack Web Development<br>* 🎨 Enjoy creating responsive and interactive user interfaces<br>* 🚀 Continuously improving my coding and problem-solving skills<br>* 🛠️ Working with technologies like HTML, CSS, JavaScript, React, Next.js, Tailwind CSS, Node.js, and MongoDB<br>* 📚 I believe in learning by building real-world projects<br>* 🎯 My goal is to become a skilled Full-Stack Developer<br>* 💡 Always excited to learn new technologies and turn ideas into code</p>
 
 ###
+<br clear="both">
 
 <h2 data-improper="text" align="left">🌐 FOLLOW ME ON SOCIALS:</h2>
 

@@ -75,13 +75,41 @@
 </div>
 
 ###
-<h3 data-improper='text' align='left'></h3>
+<h3 data-improper='text' align='left'>Database & Model></h3>
 
 <div data-importer="techs" align="left">
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
 </div>
 
+###
+<h3 data-improper='text' align='left'>Deployment Platform</h3>
+<div data-importer="techs" align="left">
+ <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
+  <img width="12" />
+ <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
+ <img width="12" />
+  <img src="https://skillicons.dev/icons?i=netlify" height="40" alt="netlify logo"  />
+</div>
 
+###
+
+<h3 data-improper='text' align='left'>Design & Graphics</h3>
+<div data-importer="techs" align="left">
+ <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ai" height="40" alt="adobeillustrator logo"  />
+  <img width="12" />
+</div>
+
+###
+<h3 data-improper='text' align='left'>Tools $ Technologies</h3>
+<div data-improper='text' align='left'>
+ <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+ <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
+  <img width="12" />
+</div>
 
 <!-- <div data-importer="techs" align="left">
  

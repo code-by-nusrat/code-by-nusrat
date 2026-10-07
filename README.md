@@ -115,7 +115,7 @@
 ###
 <br clear="both">
 
-<div align="center">
+<div align="left">
 
   <img
     src="https://github-readme-stats.vercel.app/api?username=code-by-nusrat&show_icons=true&theme=dracula"

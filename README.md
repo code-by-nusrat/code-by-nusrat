@@ -1,9 +1,9 @@
 
 ![Banner](1.png)
 
-<h1 data-importer="text" align="center">Hi  👋. I'm Nusrat Jahan<</h1>
+<h1 data-importer="text" align="center">Hi  👋. I'm Nusrat Jahan</h1>
 <h3 data-importer='text' align='center'>Fronted Developer . Crafting web Experiencing With React & Next.js</h3>
-###
+
 
 <br clear="both">
 
@@ -19,7 +19,22 @@
 
 ###
 
-<h2 data-importer="text" align="left">💻 Technology Stack</h2>
+<h2 data-improper="text" align="left">🌐 FOLLOW ME ON SOCIALS:</h2>
+
+###
+
+<div data-importer="text" align="left">
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=code-by-nusrat&show_icons=true&locale=en&layout=compact" alt="code-by-nusrat" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=code-by-nusrat&show_icons=true&locale=en" alt="code-by-nusrat" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=code-by-nusrat&" alt="code-by-nusrat" /></p>
+
+</div>
+
+###
+
+<h2 data-importer="text" align="left">💻 TECHNOLOGY STACK</h2>
 
 ###
 

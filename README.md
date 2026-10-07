@@ -37,7 +37,7 @@
 
 ###
 
-<h3 data-improper='text' align='left'>Languages</h3>
+<h3 data-improper='text' align='left'>Languages:</h3>
 
 ###
 <div  data-importer="techs" align="left">
@@ -53,7 +53,7 @@
 
 ###
 
-<h3 data-improper='text' align='left'>CSS Frameworks & Libraries</h3>
+<h3 data-improper='text' align='left'>CSS Frameworks & Libraries:</h3>
 
 <div data-importer="techs" align="left">
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
@@ -63,7 +63,7 @@
 
 ###
 
-<h3 data-improper='text' align='left'>JavaScript Frameworks & Libraries</h3>
+<h3 data-improper='text' align='left'>JavaScript Frameworks & Libraries:</h3>
 
 <div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
@@ -75,14 +75,14 @@
 </div>
 
 ###
-<h3 data-improper='text' align='left'>Database & Model></h3>
+<h3 data-improper='text' align='left'>Database & Model:</h3>
 
 <div data-importer="techs" align="left">
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
 </div>
 
 ###
-<h3 data-improper='text' align='left'>Deployment Platform</h3>
+<h3 data-improper='text' align='left'>Deployment Platform:</h3>
 <div data-importer="techs" align="left">
  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
   <img width="12" />
@@ -93,7 +93,7 @@
 
 ###
 
-<h3 data-improper='text' align='left'>Design & Graphics</h3>
+<h3 data-improper='text' align='left'>Design & Graphics:</h3>
 <div data-importer="techs" align="left">
  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
   <img width="12" />
@@ -102,7 +102,7 @@
 </div>
 
 ###
-<h3 data-improper='text' align='left'>Tools $ Technologies</h3>
+<h3 data-improper='text' align='left'>Tools $ Technologies:</h3>
 <div data-improper='text' align='left'>
  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
   <img width="12" />
@@ -111,9 +111,7 @@
   <img width="12" />
 </div>
 
-<!-- <div data-importer="techs" align="left">
- 
-</div> -->
+
 
 ###
 

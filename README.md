@@ -124,7 +124,7 @@
 <img data-importer="snake" src="https://raw.githubusercontent.com/code-by-nusrat/code-by-nusrat/snake-output/snake.svg" alt="Snake animation" />
 
 ###
-<h3 data-improper='text' align='left'>GitHub Statistics</h3>
+<h3 data-improper='text' align='left'>Repository Stats & Streak</h3>
 
 <div align="left">
 
@@ -133,15 +133,19 @@
     height="150"
     alt="GitHub stats"
   />
+</div>
 
+###
+<h3 data-improper='text' align='left'>📚 Language Statistics</h3>
+<div ata-improper='text' align='left'>
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-by-nusrat&layout=compact&langs_count=5&theme=dracula"
     height="150"
     alt="Top languages"
   />
-
 </div>
 
-###
+
+
 
 

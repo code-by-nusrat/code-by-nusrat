@@ -11,7 +11,9 @@
 
 ###
 
-<h3 data-importer="text" align="left">Hey, I'm Nusrat Jahan 👋.I'm an aspiring Full-Stack Web Developer passionate about turning ideas into clean, responsive, and user-friendly web applications.</h3>
+<h3 data-importer="text" align="left">Hey, I'm Nusrat Jahan 👋
+
+I'm an aspiring Full-Stack Web Developer passionate about turning ideas into clean, responsive, and user-friendly web applications. I enjoy building modern web experiences and continuously learning new technologies to improve my skills.</h3>
 
 ###
 

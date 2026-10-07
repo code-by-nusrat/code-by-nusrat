@@ -37,7 +37,7 @@
 
 ###
 
-<h4 data-improper='text' align='left'>Languages</h4>
+<h3 data-improper='text' align='left'>Languages</h3>
 
 ###
 <div  data-importer="techs" align="left">
@@ -53,24 +53,38 @@
 
 ###
 
-<h4>CSS Frameworks & Libraries</h4>
+<h3 data-improper='text' align='left'>CSS Frameworks & Libraries</h3>
 
+<div data-importer="techs" align="left">
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+   <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
+</div>
 
+###
 
-<!-- <div data-importer="techs" align="left">
-  
+<h3 data-improper='text' align='left'>JavaScript Frameworks & Libraries</h3>
+
+<div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  
- 
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" /> 
+</div>
+
+###
+<h3 data-improper='text' align='left'></h3>
+
+<div data-importer="techs" align="left">
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
+</div>
+
+
+
+<!-- <div data-importer="techs" align="left">
+ 
 </div> -->
 
 ###

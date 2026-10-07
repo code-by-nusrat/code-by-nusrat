@@ -1,20 +1,17 @@
 
 ![Banner](1.png)
 
-
-
-
-<h1 data-importer="text" align="center">Hi  👋. I'm Nusrat Jahan</h1>
+<h1 data-importer="text" align="center">Hi  👋. I'm Nusrat Jahan<br>Fronted Developer . Crafting web Experiencing With React & Next.js</h1>
 
 ###
 
 <br clear="both">
 
-<h3 data-importer="text" align="center">Frontend Developer • Crafting Web Experiences with React & Next.js</h3>
+<h1 data-importer="text" align="left">💫 About Me:</h1>
 
 ###
 
-<h2 data-importer="text" align="left">Hey, I'm Nusrat Jahan 👋<br>I'm an aspiring Full-Stack Web Developer passionate about turning ideas into clean, responsive, and user-friendly web applications.<br>ut me</h2>
+<h3 data-importer="text" align="left">Hey, I'm Nusrat Jahan 👋<br>I'm an aspiring Full-Stack Web Developer passionate about turning ideas into clean, responsive, and user-friendly web applications.<br>ut me</h3>
 
 ###
 
@@ -47,4 +44,5 @@
 </div>
 
 ###
+
 

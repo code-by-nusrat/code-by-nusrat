@@ -29,6 +29,7 @@
 </div>
 
 ###
+<br clear="both">
 
 <h2 data-importer="text" align="left">💻 TECHNOLOGY STACK</h2>
 

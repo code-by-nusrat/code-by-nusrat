@@ -26,6 +26,7 @@
 <div data-importer="text" align="left">
  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nusrat" height="30" width="40" />
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nusrat" height="30" width="40" />
+ <img align='center' src='https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white'  alt="nusrat" height="30" width="40"/>
 </div>
 
 ###

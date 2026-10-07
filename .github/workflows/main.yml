@@ -21,6 +21,6 @@ jobs:
         uses: crazy-max/ghaction-github-pages@v4
         with:
           build_dir: dist
-          build_branch: snake-output
+          target_branch: snake-output
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

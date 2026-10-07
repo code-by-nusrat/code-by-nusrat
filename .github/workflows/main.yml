@@ -5,6 +5,9 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   generate:
     runs-on: ubuntu-latest
@@ -18,9 +21,15 @@ jobs:
             dist/snake.svg
 
       - name: Push snake to snake-output branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          build_dir: dist
-          target_branch: snake-output
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git clone --branch snake-output https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/code-by-nusrat/code-by-nusrat.git output
+
+          cp dist/snake.svg output/snake.svg
+
+          cd output
+          git add snake.svg
+          git commit -m "Update snake animation" || echo "No changes to commit"
+          git push origin snake-output

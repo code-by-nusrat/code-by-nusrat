@@ -115,6 +115,17 @@
 ###
 <br clear="both">
 
+<h2 data-improper='text' align='left'>📊 GitHub Statistics & Analysis</h2>
+
+###
+
+<h3 data-improper='text' align='left'>GitHub Contributions:</h3>
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/code-by-nusrat/code-by-nusrat/snake-output/snake.svg" alt="Snake animation" />
+
+###
+<h3 data-improper='text' align='left'>GitHub Statistics</h3>
+
 <div align="left">
 
   <img
@@ -133,8 +144,4 @@
 
 ###
 
-<br clear="both">
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/code-by-nusrat/code-by-nusrat/snake-output/snake.svg" alt="Snake animation" />
-
-###
